@@ -1,2 +1,2 @@
-# gest-o-livros
+# gestão-livros
 Gestão de livros (Lista Ligada)
