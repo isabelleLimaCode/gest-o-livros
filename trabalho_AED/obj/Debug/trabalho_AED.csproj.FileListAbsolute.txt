@@ -1,0 +1,29 @@
+C:\Users\isabe\source\repos\trabalho_AED\trabalho_AED\bin\Debug\trabalho_AED.exe.config
+C:\Users\isabe\source\repos\trabalho_AED\trabalho_AED\bin\Debug\trabalho_AED.exe
+C:\Users\isabe\source\repos\trabalho_AED\trabalho_AED\bin\Debug\trabalho_AED.pdb
+C:\Users\isabe\source\repos\trabalho_AED\trabalho_AED\bin\Debug\Figgle.dll
+C:\Users\isabe\source\repos\trabalho_AED\trabalho_AED\bin\Debug\Figgle.xml
+C:\Users\isabe\source\repos\trabalho_AED\trabalho_AED\obj\Debug\trabalho_AED.csprojAssemblyReference.cache
+C:\Users\isabe\source\repos\trabalho_AED\trabalho_AED\obj\Debug\trabalho_AED.csproj.CoreCompileInputs.cache
+C:\Users\isabe\source\repos\trabalho_AED\trabalho_AED\obj\Debug\trabalho_AED.csproj.CopyComplete
+C:\Users\isabe\source\repos\trabalho_AED\trabalho_AED\obj\Debug\trabalho_AED.exe
+C:\Users\isabe\source\repos\trabalho_AED\trabalho_AED\obj\Debug\trabalho_AED.pdb
+C:\Users\Daniel Fraga\Desktop\trabalho_AED\bin\Debug\trabalho_AED.exe.config
+C:\Users\Daniel Fraga\Desktop\trabalho_AED\bin\Debug\trabalho_AED.exe
+C:\Users\Daniel Fraga\Desktop\trabalho_AED\bin\Debug\trabalho_AED.pdb
+C:\Users\Daniel Fraga\Desktop\trabalho_AED\bin\Debug\Figgle.xml
+C:\Users\Daniel Fraga\Desktop\trabalho_AED\obj\Debug\trabalho_AED.csprojAssemblyReference.cache
+C:\Users\Daniel Fraga\Desktop\trabalho_AED\obj\Debug\trabalho_AED.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Fraga\Desktop\trabalho_AED\obj\Debug\trabalho_AED.csproj.CopyComplete
+C:\Users\Daniel Fraga\Desktop\trabalho_AED\obj\Debug\trabalho_AED.exe
+C:\Users\Daniel Fraga\Desktop\trabalho_AED\obj\Debug\trabalho_AED.pdb
+D:\trabalho_AED\bin\Debug\trabalho_AED.exe.config
+D:\trabalho_AED\bin\Debug\trabalho_AED.exe
+D:\trabalho_AED\bin\Debug\trabalho_AED.pdb
+D:\trabalho_AED\bin\Debug\Figgle.xml
+D:\trabalho_AED\obj\Debug\trabalho_AED.csproj.AssemblyReference.cache
+D:\trabalho_AED\obj\Debug\trabalho_AED.csproj.SuggestedBindingRedirects.cache
+D:\trabalho_AED\obj\Debug\trabalho_AED.csproj.CoreCompileInputs.cache
+D:\trabalho_AED\obj\Debug\trabalho_AED.csproj.CopyComplete
+D:\trabalho_AED\obj\Debug\trabalho_AED.exe
+D:\trabalho_AED\obj\Debug\trabalho_AED.pdb
